@@ -1,1 +1,1 @@
-web: gunicorn nasi_goreng.wsgi --log-file -
+web: gunicorn BuatDjango.wsgi --log-file -
